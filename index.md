@@ -1,5 +1,6 @@
-# Priscilla Hui
-## pyhui@ucsd.edu
+# Methodology 5 Assignment
+### Priscilla Hui
+### pyhui@ucsd.edu
 
 
 * What is the most interesting topic covered in your domain this quarter? <br>
