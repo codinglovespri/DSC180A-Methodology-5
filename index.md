@@ -1,8 +1,8 @@
 # Methodology 5 Assignment
-### Priscilla Hui
-### pyhui@ucsd.edu
+### Name: Priscilla Hui
+### Email: pyhui@ucsd.edu
 
-
+## Questions
 * What is the most interesting topic covered in your domain this quarter? <br>
   example
 * Describe a potential investigation you would like to pursue for your Quarter 2 Project. <br>
