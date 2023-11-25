@@ -1,6 +1,7 @@
 # Methodology 5 Assignment
-### Name: Priscilla Hui
-### Email: pyhui@ucsd.edu
+## Info: 
+Name: Priscilla Hui <br>
+Email: pyhui@ucsd.edu
 
 ## Questions
 **What is the most interesting topic covered in your domain this quarter?** <br>
