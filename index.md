@@ -1,7 +1,8 @@
 # Methodology 5 Assignment
 ## Info: 
 Name: Priscilla Hui <br>
-Email: pyhui@ucsd.edu
+Email: pyhui@ucsd.edu <br>
+Section: Blockchain - Nolan Sheffield (A18)
 
 ## Questions:
 **What is the most interesting topic covered in your domain this quarter?** <br>
