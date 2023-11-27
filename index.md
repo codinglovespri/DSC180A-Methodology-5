@@ -1,4 +1,4 @@
-# Methodology 5 Assignment
+# Methodology 5 Assignment: Blockchain
 ## Info: 
 Name: Priscilla Hui <br>
 Email: pyhui@ucsd.edu <br>
